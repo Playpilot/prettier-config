@@ -1,6 +1,6 @@
 {
   "name": "@playpilot/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Custom prettier config used by Playpilot",
   "main": "index.js",
   "author": "Team Playpilot <techmaster@playpilot.com>",
