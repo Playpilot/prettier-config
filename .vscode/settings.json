@@ -1,0 +1,10 @@
+{
+  "editor.autoClosingBrackets": "always",
+  "editor.autoIndent": true,
+  "files.eol": "\n",
+  "files.insertFinalNewline": true,
+  "files.useExperimentalFileWatcher": true,
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "editor.formatOnSave": true,
+}
