@@ -137,6 +137,11 @@
     mkdirp "^0.5.1"
     rimraf "^2.5.2"
 
+"@playpilot/commitlint-config@*":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@playpilot/commitlint-config/-/commitlint-config-1.0.0.tgz#e2f872e80d8b02c11dcf3d83acd3612e09829a01"
+  integrity sha512-xzrWSrhyWWJyTTEqHrjZlLQuO+N189V0y98lR6vKXt0lsEkGfnek49SvQLBBVuGOW3FMW8LjC1+6z3T6uhf7ZA==
+
 JSONStream@^1.0.4:
   version "1.3.5"
   resolved "https://registry.yarnpkg.com/JSONStream/-/JSONStream-1.3.5.tgz#3208c1f08d3a4d99261ab64f92302bc15e111ca0"

@@ -6,6 +6,7 @@
   "author": "Team Playpilot <techmaster@playpilot.com>",
   "license": "ISC",
   "devDependencies": {
+    "@playpilot/commitlint-config": "*",
     "commitlint": "^7.5.2",
     "husky": "^1.3.1",
     "prettier": "^1.16.4"
